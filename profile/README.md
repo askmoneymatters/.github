@@ -10,9 +10,5 @@ Hosted on:
 <br>
 ▶️ https://askmoneymatters.github.io/
 <hr>
-<img src="./res/seo.jpg">
+<img src="https://github.com/askmoneymatters/askmoneymatters.github.io/raw/main/res/seo.jpg">
 <hr>
-<br>
-Made in association with 
-
-[Pranjal Kumar⏩](https://github.com/Pranjal-Barnwal/)
