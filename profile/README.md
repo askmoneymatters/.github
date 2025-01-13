@@ -1,5 +1,5 @@
 # Gaurav Muskan
-> ### Tax Consultant | Accountant 
+> ### Chartered Accountant 
 <br>
 High level experience in Taxation, Accounting & expertise in producing quality work.
 <hr>
